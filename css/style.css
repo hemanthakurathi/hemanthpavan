@@ -4,10 +4,10 @@
     font-family: 'Roboto', sans-serif;
 
 .bannerBgImage{
-    height: 100vh;
-    background: url("../images/bannerImage.jpg");
-    background-size: cover;
-    position: relative;
+    height:100vh;
+    background: url("./images/bannerImage.jpg");
+    background-size:cover;
+    position:relative;
 }
 
 .bannerText {
